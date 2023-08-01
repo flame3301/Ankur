@@ -90,7 +90,7 @@ Vote Flare</a>
                   <p className="text-3xl text-white font-semibold">Best Bot</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to make the community of your dreams with the best and most up-to-date bot?</p>
                 </div>
-                <img src="https://cdn.discordapp.com/attachments/737348411568685066/983094813115170866/unknown.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://cdn.discordapp.com/attachments/1131843504474165319/1135915257076928572/Screenshot_2023-08-01-18-11-31-25_5a415ff834f6bc153619606941c55eb5.jpg" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
